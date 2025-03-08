@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\build",
+    "\\build\\js",
+    "\\docs",
+    "\\docs\\assets",
+    "\\docs\\assets\\css",
+    "\\docs\\assets\\js",
+    "\\docs\\components",
+    "\\docs\\_includes",
+    "\\js\\vendor"
+  ],
+  "SelectedNode": "\\Index.aspx",
+  "PreviewInSolutionExplorer": false
+}

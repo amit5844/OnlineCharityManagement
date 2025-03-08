@@ -1,0 +1,717 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\Index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\LoginPage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LoginPage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\js\\vendor\\modernizr-3.5.0.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:js\\vendor\\modernizr-3.5.0.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\js\\vendor\\json2_2.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:js\\vendor\\json2_2.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\js\\vendor\\json2_1.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:js\\vendor\\json2_1.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\js\\vendor\\json2.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:js\\vendor\\json2.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\js\\vendor\\jquery-1.12.4.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:js\\vendor\\jquery-1.12.4.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\js\\prototype_1.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:js\\prototype_1.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\docs\\assets\\js\\demo.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\assets\\js\\demo.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\docs\\assets\\js\\adminlte.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\assets\\js\\adminlte.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\docs\\assets\\js\\adminlte.js.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\assets\\js\\adminlte.js.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\docs\\assets\\js\\adminlte.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\assets\\js\\adminlte.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\docs\\components\\boxes.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\components\\boxes.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\docs\\javascript\\layout.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\javascript\\layout.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\docs\\index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\build\\js\\DirectChat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:build\\js\\DirectChat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\build\\js\\ControlSidebar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:build\\js\\ControlSidebar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\build\\js\\CardRefresh.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:build\\js\\CardRefresh.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\build\\js\\AdminLTE.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:build\\js\\AdminLTE.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\Admin\\User.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Admin\\User.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\Admin\\ApprovalNgo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Admin\\ApprovalNgo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\Admin\\AdminMasterPage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Admin\\AdminMasterPage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\Admin\\AdminMasterPage.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Admin\\AdminMasterPage.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\db.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:db.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\Web.Debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Web.Debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\Index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\DonorRegisterPage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DonorRegisterPage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\ContactUs.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ContactUs.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\AboutUs.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AboutUs.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\AboutUs.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AboutUs.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\VolunteerRegisterPage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VolunteerRegisterPage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\VolunteerRegisterPage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VolunteerRegisterPage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\Admin\\DeleteNgo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Admin\\DeleteNgo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\Admin\\Dashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Admin\\Dashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\Admin\\Contact.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Admin\\Contact.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\Admin\\CDReceiptP.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Admin\\CDReceiptP.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\Admin\\CDReceiptG.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Admin\\CDReceiptG.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\Admin\\User.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Admin\\User.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\Donor\\Dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Donor\\Dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "modernizr-3.5.0.min.js",
+              "DocumentMoniker": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\js\\vendor\\modernizr-3.5.0.min.js",
+              "RelativeDocumentMoniker": "js\\vendor\\modernizr-3.5.0.min.js",
+              "ToolTip": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\js\\vendor\\modernizr-3.5.0.min.js",
+              "RelativeToolTip": "js\\vendor\\modernizr-3.5.0.min.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-27T17:42:15.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "json2_2.js",
+              "DocumentMoniker": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\js\\vendor\\json2_2.js",
+              "RelativeDocumentMoniker": "js\\vendor\\json2_2.js",
+              "ToolTip": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\js\\vendor\\json2_2.js",
+              "RelativeToolTip": "js\\vendor\\json2_2.js",
+              "ViewState": "AgIAAKkBAAAAAAAAAAASwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-27T17:42:01.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "json2_1.js",
+              "DocumentMoniker": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\js\\vendor\\json2_1.js",
+              "RelativeDocumentMoniker": "js\\vendor\\json2_1.js",
+              "ToolTip": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\js\\vendor\\json2_1.js",
+              "RelativeToolTip": "js\\vendor\\json2_1.js",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-27T17:41:58.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "json2.js",
+              "DocumentMoniker": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\js\\vendor\\json2.js",
+              "RelativeDocumentMoniker": "js\\vendor\\json2.js",
+              "ToolTip": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\js\\vendor\\json2.js",
+              "RelativeToolTip": "js\\vendor\\json2.js",
+              "ViewState": "AgIAAOYBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-27T17:41:46.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "jquery-1.12.4.min.js",
+              "DocumentMoniker": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\js\\vendor\\jquery-1.12.4.min.js",
+              "RelativeDocumentMoniker": "js\\vendor\\jquery-1.12.4.min.js",
+              "ToolTip": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\js\\vendor\\jquery-1.12.4.min.js",
+              "RelativeToolTip": "js\\vendor\\jquery-1.12.4.min.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-27T17:41:44.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "prototype_1.js",
+              "DocumentMoniker": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\js\\prototype_1.js",
+              "RelativeDocumentMoniker": "js\\prototype_1.js",
+              "ToolTip": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\js\\prototype_1.js",
+              "RelativeToolTip": "js\\prototype_1.js",
+              "ViewState": "AgIAAD4QAAAAAAAAAAD4vwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-27T17:40:39.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "main.js",
+              "DocumentMoniker": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\js\\main.js",
+              "RelativeDocumentMoniker": "js\\main.js",
+              "ToolTip": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\js\\main.js",
+              "RelativeToolTip": "js\\main.js",
+              "ViewState": "AgIAABYBAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-27T17:40:20.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "demo.js",
+              "DocumentMoniker": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\docs\\assets\\js\\demo.js",
+              "RelativeDocumentMoniker": "docs\\assets\\js\\demo.js",
+              "ToolTip": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\docs\\assets\\js\\demo.js",
+              "RelativeToolTip": "docs\\assets\\js\\demo.js",
+              "ViewState": "AgIAAJEBAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-27T17:39:30.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginPage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\LoginPage.aspx.cs",
+              "RelativeDocumentMoniker": "LoginPage.aspx.cs",
+              "ToolTip": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\LoginPage.aspx.cs",
+              "RelativeToolTip": "LoginPage.aspx.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAADoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:14:14.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.aspx",
+              "DocumentMoniker": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\Index.aspx",
+              "RelativeDocumentMoniker": "Index.aspx",
+              "ToolTip": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\Index.aspx",
+              "RelativeToolTip": "Index.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-27T07:24:39.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "adminlte.min.js",
+              "DocumentMoniker": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\docs\\assets\\js\\adminlte.min.js",
+              "RelativeDocumentMoniker": "docs\\assets\\js\\adminlte.min.js",
+              "ToolTip": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\docs\\assets\\js\\adminlte.min.js",
+              "RelativeToolTip": "docs\\assets\\js\\adminlte.min.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-27T17:39:27.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "adminlte.js.map",
+              "DocumentMoniker": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\docs\\assets\\js\\adminlte.js.map",
+              "RelativeDocumentMoniker": "docs\\assets\\js\\adminlte.js.map",
+              "ToolTip": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\docs\\assets\\js\\adminlte.js.map",
+              "RelativeToolTip": "docs\\assets\\js\\adminlte.js.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-27T17:39:23.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "adminlte.js",
+              "DocumentMoniker": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\docs\\assets\\js\\adminlte.js",
+              "RelativeDocumentMoniker": "docs\\assets\\js\\adminlte.js",
+              "ToolTip": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\docs\\assets\\js\\adminlte.js",
+              "RelativeToolTip": "docs\\assets\\js\\adminlte.js",
+              "ViewState": "AgIAAPADAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-27T17:38:30.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "boxes.md",
+              "DocumentMoniker": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\docs\\components\\boxes.md",
+              "RelativeDocumentMoniker": "docs\\components\\boxes.md",
+              "ToolTip": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\docs\\components\\boxes.md",
+              "RelativeToolTip": "docs\\components\\boxes.md",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-02-27T17:38:07.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "layout.md",
+              "DocumentMoniker": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\docs\\javascript\\layout.md",
+              "RelativeDocumentMoniker": "docs\\javascript\\layout.md",
+              "ToolTip": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\docs\\javascript\\layout.md",
+              "RelativeToolTip": "docs\\javascript\\layout.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-02-27T17:37:56.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "index.md",
+              "DocumentMoniker": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\docs\\index.md",
+              "RelativeDocumentMoniker": "docs\\index.md",
+              "ToolTip": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\docs\\index.md",
+              "RelativeToolTip": "docs\\index.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-02-27T17:36:31.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DirectChat.js",
+              "DocumentMoniker": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\build\\js\\DirectChat.js",
+              "RelativeDocumentMoniker": "build\\js\\DirectChat.js",
+              "ToolTip": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\build\\js\\DirectChat.js",
+              "RelativeToolTip": "build\\js\\DirectChat.js",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-27T17:36:18.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ControlSidebar.js",
+              "DocumentMoniker": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\build\\js\\ControlSidebar.js",
+              "RelativeDocumentMoniker": "build\\js\\ControlSidebar.js",
+              "ToolTip": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\build\\js\\ControlSidebar.js",
+              "RelativeToolTip": "build\\js\\ControlSidebar.js",
+              "ViewState": "AgIAAAMBAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-27T17:36:08.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CardRefresh.js",
+              "DocumentMoniker": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\build\\js\\CardRefresh.js",
+              "RelativeDocumentMoniker": "build\\js\\CardRefresh.js",
+              "ToolTip": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\build\\js\\CardRefresh.js",
+              "RelativeToolTip": "build\\js\\CardRefresh.js",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-27T17:35:53.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AdminLTE.js",
+              "DocumentMoniker": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\build\\js\\AdminLTE.js",
+              "RelativeDocumentMoniker": "build\\js\\AdminLTE.js",
+              "ToolTip": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\build\\js\\AdminLTE.js",
+              "RelativeToolTip": "build\\js\\AdminLTE.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-27T17:35:47.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "db.txt",
+              "DocumentMoniker": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\db.txt",
+              "RelativeDocumentMoniker": "db.txt",
+              "ToolTip": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\db.txt",
+              "RelativeToolTip": "db.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-02-27T17:24:11.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Web.Debug.config",
+              "DocumentMoniker": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\Web.Debug.config",
+              "RelativeDocumentMoniker": "Web.Debug.config",
+              "ToolTip": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\Web.Debug.config",
+              "RelativeToolTip": "Web.Debug.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-02-27T17:15:14.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-02-27T17:15:08.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AdminMasterPage.master.cs",
+              "DocumentMoniker": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\Admin\\AdminMasterPage.master.cs",
+              "RelativeDocumentMoniker": "Admin\\AdminMasterPage.master.cs",
+              "ToolTip": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\Admin\\AdminMasterPage.master.cs",
+              "RelativeToolTip": "Admin\\AdminMasterPage.master.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:13:28.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AdminMasterPage.master",
+              "DocumentMoniker": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\Admin\\AdminMasterPage.master",
+              "RelativeDocumentMoniker": "Admin\\AdminMasterPage.master",
+              "ToolTip": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\Admin\\AdminMasterPage.master",
+              "RelativeToolTip": "Admin\\AdminMasterPage.master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-27T17:12:09.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ApprovalNgo.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\Admin\\ApprovalNgo.aspx.cs",
+              "RelativeDocumentMoniker": "Admin\\ApprovalNgo.aspx.cs",
+              "ToolTip": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\Admin\\ApprovalNgo.aspx.cs",
+              "RelativeToolTip": "Admin\\ApprovalNgo.aspx.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:13:35.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "User.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\Admin\\User.aspx.cs",
+              "RelativeDocumentMoniker": "Admin\\User.aspx.cs",
+              "ToolTip": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\Admin\\User.aspx.cs",
+              "RelativeToolTip": "Admin\\User.aspx.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwJgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:12:37.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\Index.aspx.cs",
+              "RelativeDocumentMoniker": "Index.aspx.cs",
+              "ToolTip": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\Index.aspx.cs",
+              "RelativeToolTip": "Index.aspx.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:16:00.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DonorRegisterPage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\DonorRegisterPage.aspx.cs",
+              "RelativeDocumentMoniker": "DonorRegisterPage.aspx.cs",
+              "ToolTip": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\DonorRegisterPage.aspx.cs",
+              "RelativeToolTip": "DonorRegisterPage.aspx.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:15:48.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ContactUs.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\ContactUs.aspx.cs",
+              "RelativeDocumentMoniker": "ContactUs.aspx.cs",
+              "ToolTip": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\ContactUs.aspx.cs",
+              "RelativeToolTip": "ContactUs.aspx.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:15:41.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AboutUs.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\AboutUs.aspx.cs",
+              "RelativeDocumentMoniker": "AboutUs.aspx.cs",
+              "ToolTip": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\AboutUs.aspx.cs",
+              "RelativeToolTip": "AboutUs.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:15:39.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AboutUs.aspx",
+              "DocumentMoniker": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\AboutUs.aspx",
+              "RelativeDocumentMoniker": "AboutUs.aspx",
+              "ToolTip": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\AboutUs.aspx",
+              "RelativeToolTip": "AboutUs.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-27T17:15:38.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "VolunteerRegisterPage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\VolunteerRegisterPage.aspx.cs",
+              "RelativeDocumentMoniker": "VolunteerRegisterPage.aspx.cs",
+              "ToolTip": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\VolunteerRegisterPage.aspx.cs",
+              "RelativeToolTip": "VolunteerRegisterPage.aspx.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:15:24.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "VolunteerRegisterPage.aspx",
+              "DocumentMoniker": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\VolunteerRegisterPage.aspx",
+              "RelativeDocumentMoniker": "VolunteerRegisterPage.aspx",
+              "ToolTip": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\VolunteerRegisterPage.aspx",
+              "RelativeToolTip": "VolunteerRegisterPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-27T17:15:21.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DeleteNgo.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\Admin\\DeleteNgo.aspx.cs",
+              "RelativeDocumentMoniker": "Admin\\DeleteNgo.aspx.cs",
+              "ToolTip": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\Admin\\DeleteNgo.aspx.cs",
+              "RelativeToolTip": "Admin\\DeleteNgo.aspx.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:13:59.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Dashboard.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\Admin\\Dashboard.aspx.cs",
+              "RelativeDocumentMoniker": "Admin\\Dashboard.aspx.cs",
+              "ToolTip": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\Admin\\Dashboard.aspx.cs",
+              "RelativeToolTip": "Admin\\Dashboard.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:13:54.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Contact.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\Admin\\Contact.aspx.cs",
+              "RelativeDocumentMoniker": "Admin\\Contact.aspx.cs",
+              "ToolTip": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\Admin\\Contact.aspx.cs",
+              "RelativeToolTip": "Admin\\Contact.aspx.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:13:50.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CDReceiptP.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\Admin\\CDReceiptP.aspx.cs",
+              "RelativeDocumentMoniker": "Admin\\CDReceiptP.aspx.cs",
+              "ToolTip": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\Admin\\CDReceiptP.aspx.cs",
+              "RelativeToolTip": "Admin\\CDReceiptP.aspx.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:13:44.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CDReceiptG.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\Admin\\CDReceiptG.aspx.cs",
+              "RelativeDocumentMoniker": "Admin\\CDReceiptG.aspx.cs",
+              "ToolTip": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\Admin\\CDReceiptG.aspx.cs",
+              "RelativeToolTip": "Admin\\CDReceiptG.aspx.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:13:39.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "User.aspx",
+              "DocumentMoniker": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\Admin\\User.aspx",
+              "RelativeDocumentMoniker": "Admin\\User.aspx",
+              "ToolTip": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\Admin\\User.aspx",
+              "RelativeToolTip": "Admin\\User.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-27T17:12:35.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Dashboard.aspx",
+              "DocumentMoniker": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\Donor\\Dashboard.aspx",
+              "RelativeDocumentMoniker": "Donor\\Dashboard.aspx",
+              "ToolTip": "C:\\Users\\amitp\\Downloads\\OnlineNGODonation\\Donor\\Dashboard.aspx",
+              "RelativeToolTip": "Donor\\Dashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-27T17:03:56.817Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
